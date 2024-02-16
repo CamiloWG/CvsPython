@@ -22,19 +22,19 @@ Tabla de resultados de los tiempos, en microsegundos, obtenidos al ejecutar fact
 
 Gráficos obtenidos a partir de los resultados
 -------
-![Gráfico 1](src/image.png)
+![Gráfico 1](src/image-1.png)
 
 **Gráfico 1. Comparación general de todos los tiempos obtenidos entre C y Python.**
 
 
 -------
-![Gráfico 2](src/image-1.png)
+![Gráfico 2](src/image-2.png)
 
 **Gráfico 2. Comparación de tiempos entre C y Python al ejecutar factoriales de forma iterativa.**
 
 
 ---------
-![Gráfico 3](src/image-2.png)
+![Gráfico 3](src/image-3.png)
 
 **Gráfico 3. Comparación de tiempos entre C y Python al ejecutar factoriales de forma recursiva.**
 
